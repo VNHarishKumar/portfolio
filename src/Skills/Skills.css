@@ -1,0 +1,79 @@
+.skills-container {
+    text-align: center;
+    font-family: Times;
+    color: white;
+    font-size: 1.8em;
+    padding-top: 250px;
+}
+
+.icons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.icon {
+    margin: 0 10px 20px 10px; 
+}
+
+.nodejs{
+    height: 123px;
+    width: auto;
+}
+
+.reactjs{
+    height: 123px;
+    width: auto;
+}
+
+.python{
+    height: 123px;
+    width: auto;
+}
+
+.js{
+    height: 123px;
+    width: auto;
+}
+
+.ts{
+    height: 123px;
+    width: auto;
+}
+
+.mysql{
+    height: 123px;
+    width: auto;
+}
+
+.nosql{
+    height: 123px;
+    width: auto;
+}
+
+.aws{
+    height: 123px;
+    width: auto;
+}
+
+.gcp{
+    height: 123px;
+    width: auto;
+}
+
+.git{
+    height: 123px;
+    width: auto;
+}
+
+.cicd{
+    height: 123px;
+    width: auto;
+}
+
+.java{
+    height: 123px;
+    width: auto;
+}
