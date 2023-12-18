@@ -1,0 +1,53 @@
+/* Home.css */
+
+.home-container {
+    text-align: center;
+    margin-top: 300px;
+  }
+  
+  .name {
+    font-family:  Times;
+    font-size: 2.5em;
+    color: white;
+  }
+  
+  .description {
+  font-family:  Times;
+  font-size: 2em;
+  white-space: nowrap; 
+  overflow: hidden; 
+  border-right: none;
+  animation: typing 1s steps(30, end); 
+  
+  }
+  
+
+  .icon-container {
+    font-family:  Times;
+    margin-top: 20px;
+  }
+  
+  .icon-link {
+    font-family:  Times;
+    margin: 0 10px;
+    text-decoration: none;
+    
+  }
+  
+  .icon {
+    font-family:  Times;
+    width: 30px; 
+    height: 30px; 
+  }
+  
+  .github{
+    height: 50px;
+  }
+
+  .linkedin{
+    height: 50px;
+  }
+
+  .emaillogo{
+    height: 50px;
+  }
