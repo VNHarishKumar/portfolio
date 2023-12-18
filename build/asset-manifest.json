@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05df0111.css",
+    "main.js": "/static/js/main.4e79a639.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/port.png": "/static/media/port.89eb29dd32be538140c4.png",
+    "static/media/NLC.png": "/static/media/NLC.f0c67d6aa8c5e3514cdb.png",
+    "static/media/webapp.png": "/static/media/webapp.dd41046ae6f6eb638d19.png",
+    "static/media/harish6.jpeg": "/static/media/harish6.40bade60965a64ac6d7b.jpeg",
+    "static/media/react.png": "/static/media/react.83bbd3bd4dfb9fae57be.png",
+    "static/media/mongodb.png": "/static/media/mongodb.9fb9b3d1d58ca685ddc2.png",
+    "static/media/java.png": "/static/media/java.52202c65c5097f221f75.png",
+    "static/media/aws.png": "/static/media/aws.cf11508b23b221836b06.png",
+    "static/media/download2.png": "/static/media/download2.1f87c91d5aa6bb9586d8.png",
+    "static/media/sastra3.png": "/static/media/sastra3.c3c139ea6a0a78804e83.png",
+    "static/media/google-cloud.png": "/static/media/google-cloud.b0aed79678bed4742269.png",
+    "static/media/python.png": "/static/media/python.81572e7a88ad9daf0f22.png",
+    "static/media/neu.svg": "/static/media/neu.f682f1d908c4c530772b30427e4333d8.svg",
+    "static/media/mysql.png": "/static/media/mysql.c468417fe07208a9427d.png",
+    "static/media/git.png": "/static/media/git.de978e615a9ddc91c9cf.png",
+    "static/media/nodejs.png": "/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/javascript.png": "/static/media/javascript.06b1c34984957fcaeeee.png",
+    "static/media/cts.png": "/static/media/cts.5dabc302f9a62be8e955.png",
+    "static/media/typescript.png": "/static/media/typescript.cdacf8b338ede99e2cc5.png",
+    "static/media/github.png": "/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/GitHub Actions.png": "/static/media/GitHub Actions.9dfaddbea6a12a1ad4dc.png",
+    "static/media/email.png": "/static/media/email.67bda94140af311d041f.png",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/index.html",
+    "main.05df0111.css.map": "/static/css/main.05df0111.css.map",
+    "main.4e79a639.js.map": "/static/js/main.4e79a639.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05df0111.css",
+    "static/js/main.4e79a639.js"
+  ]
+}
