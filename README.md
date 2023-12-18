@@ -2,6 +2,5 @@
 
 # Steps to Run
 
-- cd portfolio
 - npm install
 - npm start
